@@ -14,7 +14,7 @@ const Banner4 = ({data, isrotate}) => {
                     <div className='md:w-1/2 xsm:w-[343px] xsm:h-[168px] md:h-[265px] xsm:mb-28 xsm:m-auto p-8 flex flex-col gap-7'>
                         <h1 className='font-extrabold text-5xl text-white'>{heading}</h1>
                         <a href={hostLink} target='_blank'><h1 className='font-bold text-3xl text-white'>{title}</h1></a>
-                        <p className='font-normal text-base text-zinc-500'>{subTitle}</p>
+                        <p className='font-normal md:w-[400px] text-base text-zinc-500'>{subTitle}</p>
                         <a href={hostLink} target='_blank'><img className='w-5 h-5' src="./Assets/imgs/export.png" alt="" /></a>
                     </div>
                 </div>
