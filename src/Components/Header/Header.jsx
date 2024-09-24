@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 
 const Header = () => {
   return (
-    <div className='flex justify-around items-center p-7'>
+    <div className='flex md:justify-around xsm:justify-between items-center p-7'>
         <div className='flex items-center gap-2'>
             <img src="./Assets/imgs/header logo.png" alt="" />
             <h1 className='font-bold text-xl'>Portfolio</h1>

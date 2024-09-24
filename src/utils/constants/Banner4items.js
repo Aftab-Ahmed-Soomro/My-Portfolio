@@ -17,7 +17,7 @@ export const Banner4items3 = {
     imgUrl : 'Assets/imgs/Food Delivery App.png',
     heading : '03',
     title : 'Food Delivery Application',
-    subTitle : "Just wrapped up an exciting project where I built a sleek and user-friendly Food Delivery App using React.js! Whether you're craving pizza, sushi, or burgers, this app makes ordering your favorite meals easier than ever.",
+    subTitle : "Just wrapped up an exciting project where I built a sleek and user-friendly Food Delivery App using React.js!",
     hostLink : 'https://food-delivery-app-one-beta.vercel.app/'
 }
 
@@ -57,7 +57,7 @@ export const Banner4items8 = {
     imgUrl : 'Assets/imgs/Random Password Generator.png',
     heading : '08',
     title : 'Random Password Generator',
-    subTitle : "I've just completed building this Random Password Generator App using HTML, CSS, and JavaScript! This project isn't just about generating passwords; it's about empowering users with secure and customizable password solutions.",
+    subTitle : "I've just completed building this Random Password Generator App using HTML, CSS, and JavaScript!",
     hostLink : 'https://aftab-ahmed-soomro.github.io/Random-Password-Generator/'
 }
 
@@ -73,7 +73,7 @@ export const Banner4items10 = {
     imgUrl : 'Assets/imgs/NETONE.png',
     heading : '10',
     title : 'NETONE',
-    subTitle : "Excited to share my project, a responsive website that adapts seamlessly to various screen sizes and devices. From desktop to mobile, user experience remains top-notch.",
+    subTitle : "Excited to share a responsive website that adapts seamlessly to various screen sizes and devices. From desktop to mobile, user experience remains top-notch.",
     hostLink : 'https://netone-by-aftab.netlify.app/'
 }
 
