@@ -3,7 +3,7 @@ import React from 'react'
 const Button = () => {
   return (
     <div>
-      <a href="./Assets/imgs/Screenshot (69).png" target='_blank'><button className='bg-black text-white hover:bg-white hover:text-black border-2 border-solid border-black p-3 font-semibold text-xl rounded'>Resume</button></a>
+      <a download={"./Assets/imgs/Screenshot (69).png"} href="./Assets/imgs/Screenshot (69).png" target='_blank'><button className='bg-black text-white hover:bg-white hover:text-black border-2 border-solid border-black p-3 font-semibold text-xl rounded'>Resume</button></a>
       {/* <i class="fa-solid fa-download bg-black text-white ms-3"></i> */}
     </div>
   )
