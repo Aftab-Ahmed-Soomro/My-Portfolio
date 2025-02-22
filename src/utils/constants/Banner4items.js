@@ -77,3 +77,11 @@ export const Banner4items10 = {
     hostLink : 'https://netone-by-aftab.netlify.app/'
 }
 
+export const Banner4items11 = {
+    imgUrl : 'Assets/imgs/AddToCart.png',
+    heading : '11',
+    title : 'Add To Cart',
+    subTitle : "Excited to share a responsive website that adapts seamlessly to various screen sizes and devices. From desktop to mobile, user experience remains top-notch.",
+    hostLink : 'https://addtocart-by-aftab.netlify.app/'
+}
+
